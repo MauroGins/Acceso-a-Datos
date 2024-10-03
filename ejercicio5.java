@@ -14,7 +14,7 @@ import java.io.IOException;
 
 public class ejercicio5 {
     public static void main(String[] args) throws IOException {
-        manejoFicheros.listaTotal("nombre");
+        manejoFicheros.listaTotal("recurso\\nombre");
 
     }
 }
